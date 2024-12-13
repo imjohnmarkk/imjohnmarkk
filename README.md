@@ -4,7 +4,8 @@ I'm just starting my journey on GitHub to learn and share my coding projects.
 
 ## 🌱 What I'm Learning  
 - Python programming basics  
-- Data Structures and Algorithm 
+- Data Structures and Algorithm
+- Web Development
 
 ## 📫 How to Reach Me  
 - Email: [john.mark.devv@gmail.com](mailto:john.mark.devv@gmail.com)
