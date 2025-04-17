@@ -6,6 +6,7 @@ I'm just starting my journey on GitHub to learn and share my coding projects.
 - Python programming basics  
 - Data Structures and Algorithm
 - Web Development
+- Dart & Flutter
 
 ## 📫 How to Reach Me  
 - Email: [john.mark.devv@gmail.com](mailto:john.mark.devv@gmail.com)
